@@ -1,0 +1,6 @@
+com\sistemabancario\exchangerate\ExchangerateApplication.class
+com\sistemabancario\exchangerate\controller\ExchangeRateController.class
+com\sistemabancario\exchangerate\service\IExchangeRateService.class
+com\sistemabancario\exchangerate\service\impl\ExchangeRateService.class
+com\sistemabancario\exchangerate\domain\ExchangeRate.class
+com\sistemabancario\exchangerate\repository\IExchangeRateRepository.class
